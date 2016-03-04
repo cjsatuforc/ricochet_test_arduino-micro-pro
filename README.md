@@ -2,6 +2,8 @@
 
 <img alt="Photo" src="http://img.dxcdn.com/productimages//productimages/sku_320958_1.jpg?raw=true">
 
+<img alt="Photo" src="https://cdn.sparkfun.com/assets/9/c/3/c/4/523a1765757b7f5c6e8b4567.png?raw=true">
+
 
 ## How to Install 
 
@@ -24,3 +26,14 @@
 
 - Restart and you should see a few new options, including `SparkFun Pro Micro...`
 
+## Usages
+
+###- Compilation : 
+
+**USE the processor 5V and 16MHz only !!!!!**
+
+###- Reset :
+
+[Tuto](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq)
+
+<img alt="Photo" src="https://cdn.sparkfun.com/assets/6/d/3/4/a/523c8e23757b7fbe5f8b4584.png?raw=true">
